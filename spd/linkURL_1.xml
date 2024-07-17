@@ -14,7 +14,11 @@
 <!-- Right click and copy´paste the url into windows.xml -->
 <!-- Each ingame link needs its own file! -->
 
-<entry><link>https://discord.com/invite/StrFn7X</link>
-<date></date><title></title><text></text><imagerelpath>
-</imagerelpath></entry>
+<entry>
+	<link>https://discord.com/invite/StrFn7X</link>
+		<title>Server Panel Deluxe</title>
+		<text>Insert url for link 1</text>
+		<date>2024-01-01 12:00:00Z</date>
+		<imagerelpath></imagerelpath>
+	</entry>
 </eihwaz.de>
