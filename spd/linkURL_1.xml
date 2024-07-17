@@ -16,9 +16,10 @@
 
 <entry>
 	<link>https://discord.com/invite/StrFn7X</link>
-		<title>Server Panel Deluxe</title>
-		<text>Insert url for link 1</text>
-		<date>2024-01-01 12:00:00Z</date>
-		<imagerelpath></imagerelpath>
-	</entry>
+	<!-- leave the rest unchanged -->
+	<title>Server Panel Deluxe</title>
+	<text>Insert url for link 1</text>
+	<date>2024-01-01 12:00:00Z</date>
+	<imagerelpath></imagerelpath>
+</entry>
 </eihwaz.de>
